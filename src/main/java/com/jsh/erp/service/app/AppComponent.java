@@ -14,7 +14,7 @@ import java.util.Map;
 @Service(value = "app_component")
 @AppResource
 public class AppComponent implements ICommonQuery {
-
+//测试
     @Resource
     private AppService appService;
 
